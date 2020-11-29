@@ -12,7 +12,7 @@
 	<artifactId>maBankhi</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>ManageImmoGuineeWeb</name>
+	<name>maBankhi</name>
 	<description>Gestion immobilière web for Spring Boot</description>
 
 	<properties>
